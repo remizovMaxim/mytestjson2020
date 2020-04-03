@@ -1,12 +1,12 @@
 {
-  array1: [
-    {id: 11, name: John, city: Southside},
-    {id: 12, name: Ilon, city: balli},
-    {id: 33, name: Jimy, city: null},
+  "array1": [
+    {"id": 11, "name": "John", "city": "Southside"},
+    {"id": 12, "name": "Ilon", "city": "balli"},
+    {"id": 33, "name": "Jimy", "city": null},
   ],
-  array2: [
-    {id: 21, name: Breed, city: Northside},
-    {id: 22, name: Trevor, city: Buggaty},
-    {id: 43, name: Fillip, city: Banan},
+  "array2": [
+    {"id": 21, "name": "Breed", "city": "Northside"},
+    {"id": 22, "name": "Trevor", "city": "Buggaty"},
+    {"id": 43, "name": "Fillip", "city": "Banan"},
   ],
 }
